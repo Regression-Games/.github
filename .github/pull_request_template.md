@@ -1,3 +1,7 @@
+INSERT_PR_DETAILS_HERE
+
+---
+
 Find the pull request instructions [here](https://www.notion.so/regressiongg/Pull-Request-Process-0d57a7eb582a446983edfacafa406f1e?pvs=4)
 
 Every reviewer and the owner of the PR should consider these points in their request (feel free to copy this checklist so you can fill it out yourself in the overall PR comment)
